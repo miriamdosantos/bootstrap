@@ -122,8 +122,8 @@ padding-top: 2rem;
 /* Jumbotron */
 .jumbotron{
     margin-top: 6rem;
-    margin-right: 15rem;
-    background-color: rgba(176, 144, 144, 0.430);
+    
+    background-color: rgba(176, 144, 144, 0.300);
     width: 60vw;
     
 }
